@@ -1,3 +1,2 @@
-l=[1,2,3,4,5,67,9]
-l1=len(l)
-print(l1)
+for i in range(1,11):
+  print('456*',i,'456*i')
